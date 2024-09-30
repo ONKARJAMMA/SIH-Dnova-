@@ -12,9 +12,6 @@ The routing system incorporates a* algorithm for optimal pathfinding between por
   - [Flutter Mobile Application](#flutter-mobile-application)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 A Algorithm-Based Ship Routing*: Efficiently calculates the optimal route between source and destination, balancing time, safety, and route efficiency using dynamic data like wind and wave conditions.
 
@@ -37,24 +34,19 @@ Advanced Maritime Search: Features a search function optimized for maritime rout
 - Flask (or another Python web framework)
 
 
-#### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/nautilus.git
-   cd ShipRouting/flsk.py
-   ```
 
-2. Install the dependencies:
+
+1. Install the dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the Flask server:
+2. Run the Flask server:
    ```bash
    python app.py
    ```
 
-4. Open the web application in your browser at:
+3. Open the web application in your browser at:
    ```bash
    http://localhost:5000
    ```

@@ -46,10 +46,8 @@ Advanced Maritime Search: Features a search function optimized for maritime rout
    python app.py
    ```
 
-3. Open the web application in your browser at:
-   ```bash
-   http://localhost:5000
-   ```
+3. Open the web application in your browser at local file
+
 
 
 ### Flutter Mobile Application
